@@ -1,6 +1,6 @@
 ## Node Course Chat Application
 
-[course](http://udemy.com/the-complete-node-js-developer-course/)
+[The Complete Node.js Developer Course](http://udemy.com/the-complete-node-js-developer-course/)
 
 ### Setup
 
